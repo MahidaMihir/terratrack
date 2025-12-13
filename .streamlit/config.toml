@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#f97316"              # orange
+backgroundColor = "#020617"           # page background
+secondaryBackgroundColor = "#020617"  
+textColor = "#e5e7eb"                 # light gray
+font = "sans serif"
